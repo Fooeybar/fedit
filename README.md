@@ -2,7 +2,6 @@
 
 ![npm](https://img.shields.io/npm/v/fedit?style=flat-square)
 ![node](https://img.shields.io/node/v/cau?style=flat-square)
-![license](https://img.shields.io/github/license/fooeybar/fedit?style=flat-square)
 
 </br>
 
