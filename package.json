@@ -1,0 +1,24 @@
+{
+  "name": "fedit",
+  "version": "0.0.1",
+  "description": "Edit files or string arrays by line, directly from the command line or import as a module",
+  "main": "fedit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fooeybar/fedit.git"
+  },
+  "keywords": [
+    "file",
+    "read",
+    "write"
+  ],
+  "author": "Fooeybar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fooeybar/fedit/issues"
+  },
+  "homepage": "https://github.com/Fooeybar/fedit#readme"
+}
